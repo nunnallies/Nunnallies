@@ -1,8 +1,8 @@
 # 💫 About Me:
-🦋 I'm a 22 y.o engineer looking for a software engineer job
-<br>🌸 I love R&D, innovation and challenges
-<br>🔭 I’m currently working on Medalert 
-<br>🌱 I’m currently learning : SpringBoot, Kubernetes, TailWind.css, SOAP Api, Sonarqube, JWT<br>
+🦋 I'm a 22 y.o engineer looking for a software engineer job.
+<br>🌸 I love R&D, innovation and challenges.
+<br>🔭 I’m currently working on Medalert. 
+<br>🌱 I’m currently learning : SpringBoot, Kubernetes, TailWind.css, SOAP Api, Sonarqube, JWT.<br>
 
 
 ## 🌐 Socials:
